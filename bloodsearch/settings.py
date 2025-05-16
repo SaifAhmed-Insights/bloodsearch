@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'bloodsearch_db',
         'USER': 'saifuser',
-        'PASSWORD': 'S7@2i4f3',
+        'PASSWORD': '********',
         'HOST': 'localhost',
         'PORT': '3306',
     }
