@@ -14,13 +14,13 @@ A web application built using **Django** to help users register and find blood d
 - Secure form handling with CSRF protection
 - Clean and responsive registration page
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend**: Django (Python)
 - **Database**: SQLite (can be replaced with MySQL or PostgreSQL)
 - **Frontend**: HTML, CSS (Bootstrap optional)
 
-##  Installation Guide
+## Installation Guide
 
 1. **Clone the repository**
    ```bash
